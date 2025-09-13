@@ -417,4 +417,4 @@ This smart contract is provided for educational and development purposes. Operat
 
 Deploy the contract, create exciting races, and let the betting begin!
 
-*Built with ❤️ on Stacks blockchain using Clarity smart contracts*
+*Built with ❤️ on Stacks blockchain using Clarity smart contracts*==========
